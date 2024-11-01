@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bottle",
+  "key": {
+    "#": {
+      "item": "avtomat:bill3"
+    }
+  },
+  "pattern": [
+    "###",
+    "## "
+  ],
+  "result": {
+    "item": "avtomat:bill4"
+  }
+}

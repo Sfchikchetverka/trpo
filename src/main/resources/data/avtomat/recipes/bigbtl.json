@@ -1,0 +1,10 @@
+{
+  "type": "avtomat:razliv_vodi",
+  "ingredients" : [{
+    "item" : "avtomat:bigbottleraw"
+  }],
+  "money": { "value": 100 },
+  "output" : {
+    "item" : "avtomat:bigbottlefull"
+  }
+}

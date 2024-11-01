@@ -1,0 +1,19 @@
+{
+  "item.avtomat.coin": "Рубль",
+  "item.avtomat.coin1": "2 Рубля",
+  "item.avtomat.coin2": "5 Рублей",
+  "item.avtomat.coin3": "10 Рублей",
+  "item.avtomat.bill": "10 Рублей",
+  "item.avtomat.bill2": "50 Рублей",
+  "item.avtomat.bill3": "100 Рублей",
+  "item.avtomat.bill4": "500 Рублей",
+  "item.avtomat.bill5": "1000 Рублей",
+  "item.avtomat.bill6": "5000 Рублей",
+  "item.avtomat.smallbottleraw": "Пустая маленькая бутылка",
+  "item.avtomat.smallbottlefull": "Полная маленькая бутылка",
+  "item.avtomat.mediumbottleraw": "Пустая средняя бутылка",
+  "item.avtomat.mediumbottlefull": "Полная средняя бутылка",
+  "item.avtomat.bigbottlefull": "Полная большая бутылка",
+  "item.avtomat.bigbottleraw": "Пустая большая бутылка",
+  "block.avtomat.avtomat_block": "Автомат с водой"
+}
